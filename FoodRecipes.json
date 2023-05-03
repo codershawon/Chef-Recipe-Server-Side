@@ -1,225 +1,206 @@
- [
-      {
-        "recipe": "Rogan Josh",
-        "recipeImage":"https://images.unsplash.com/photo-1559203244-78de52adba0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1343&q=80",
-        "chef": {
-          "name": "Aruna Saha",
-          "country": "Bangladesh",
-          "picture": "https://images.unsplash.com/photo-1541279267475-73a3bc2c6bba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1176&q=80",
-          "years_of_experience": 10,
-          "number_of_recipes": 50,
-          "likes": 800,
-          "description": "Aruna Saha is a Bangladeshi chef who specializes in traditional Bengali cuisine. She is the owner of several successful restaurants in Bangladesh and has authored several cookbooks."
-        }
-      },
-      {
-        "recipe": "Kung Pao Chicken",
-        "recipeImage":"https://lh5.googleusercontent.com/-xUSiu040tQA/U1ixtddLe4I/AAAAAAAEgQE/7yt7nrpprUs/s800/kung-pao-chicken-6.jpg",
-        "chef": {
-          "name": "Martin Yan",
-          "country": "China",
-          "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-          "years_of_experience": 40,
-          "number_of_recipes": 100,
-          "likes": 1500,
-          "description": "Martin Yan is a Chinese-American chef who is known for his expertise in Chinese cuisine. He has hosted several cooking shows, authored numerous cookbooks, and is the owner of several successful restaurants in the United States and Canada."
-        }
-      },
-      {
-        "recipe": "Butter Chicken",
-        "recipeImage":"https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "chef": {
-          "name": "Sanjeev Kapoor",
-          "country": "India",
-          "picture": "https://images.unsplash.com/photo-1604551969716-5d6d8f77b241?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-          "years_of_experience": 30,
-          "number_of_recipes": 200,
-          "likes": 2500,
-          "description": "Sanjeev Kapoor is an Indian chef who is known for his contributions to Indian cuisine. He has authored numerous cookbooks, hosted several television shows, and is the owner of several successful restaurants in India and abroad."
-        }
-      },
-      {
-        "recipe": "Hummus",
-        "recipeImage":"https://images.unsplash.com/photo-1591299177061-2151e53fcaea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
-        "chef": {
-          "name": "Yotam Ottolenghi",
-          "country": "Mediterranean",
-          "picture": "https://images.unsplash.com/photo-1631212500544-e32a879267f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=757&q=80",
-          "years_of_experience": 20,
-          "number_of_recipes": 150,
-          "likes": 3000,
-          "description": "Yotam Ottolenghi is an Israeli-British chef who is known for his Mediterranean-inspired cuisine. He has authored several cookbooks, owns several successful restaurants in London, and is a regular contributor to The Guardian and The New York Times."
-        }
-      },
-      {
-        "recipe": "Tom Yum Goong",
-        "recipeImage":"https://images.unsplash.com/photo-1628428798909-75a2d42a557e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1131&q=80",
-        "chef": {
-          "name": "David Thompson",
-          "country": "Thailand",
-          "picture": "https://images.unsplash.com/photo-1681269275449-9badcf74bd04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-          "years_of_experience": 30,
-          "number_of_recipes": 50,
-          "likes": 1000,
-          "description": "David Thompson is an Australian chef who is known for his expertise in Thai cuisine. He has authored several cookbooks and is the owner of several restaurants, including Long Chim, which specializes in Thai street food."
-        }
-      },
-      {
-            "recipe": "Sushi",
-            "recipeImage":"https://images.unsplash.com/photo-1579871494447-9811cf80d66c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "chef": {
-              "name": "Jiro Ono",
-              "country": "Japan",
-              "picture": "https://images.unsplash.com/photo-1667899827540-e06edbb2272d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-              "years_of_experience": 70,
-              "number_of_recipes": 25,
-              "likes": 800,
-              "description": "Jiro Ono is a Japanese chef who is known for his expertise in sushi. He is the owner of Sukiyabashi Jiro, a three-Michelin-starred sushi restaurant in Tokyo, and has been recognized as a national treasure of Japan."
-            }
-          },
-          {
-            "recipe": "Margherita Pizza",
-            "recipeImage":"https://images.unsplash.com/photo-1595854341625-f33ee10dbf94?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "chef": {
-              "name": "Gennaro Contaldo",
-              "country": "Italy",
-              "picture": "https://images.unsplash.com/photo-1576237680582-75be01432ca6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-              "years_of_experience": 50,
-              "number_of_recipes": 100,
-              "likes": 1500,
-              "description": "Gennaro Contaldo is an Italian chef who is known for his expertise in Italian cuisine. He has authored several cookbooks, hosted several television shows, and is the owner of several successful restaurants in the United Kingdom and Italy."
-            }
-          },
-          {
-            "recipe": "Jollof Rice",
-            "recipeImage":"https://images.unsplash.com/photo-1569058242252-623df46b5025?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "chef": {
-              "name": "Pierre Thiam",
-              "country": "Africa",
-              "picture": "https://images.unsplash.com/photo-1643834776503-891726ed42c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
-              "years_of_experience": 25,
-              "number_of_recipes": 50,
-              "likes": 1200,
-              "description": "Pierre Thiam is a Senegalese chef who is known for his expertise in West African cuisine. He has authored several cookbooks, owns several successful restaurants in New York City, and is a regular contributor to The New York Times."
-            }
-          },
-          {
-            "recipe": "Pho",
-            "recipeImage":"https://images.unsplash.com/photo-1631709497146-a239ef373cf1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "chef": {
-              "name": "Charles Phan",
-              "country": "Vietnam",
-              "picture": "https://images.unsplash.com/photo-1639747541782-8673b4682d18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-              "years_of_experience": 30,
-              "number_of_recipes": 75,
-              "likes": 2000,
-              "description": "Charles Phan is a Vietnamese-American chef who is known for his expertise in Vietnamese cuisine. He is the owner of The Slanted Door, a popular Vietnamese restaurant in San Francisco, and has authored several cookbooks."
-            }
-          },
-          {
-            "recipe": "Kottu Roti",
-            "recipeImage":"https://images.unsplash.com/photo-1645432524528-ae76145f67b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "chef": {
-              "name": "Dharshan Munidasa",
-              "country": "Sri Lanka",
-              "picture": "https://images.unsplash.com/photo-1636115130040-adf36e3ed32b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-              "years_of_experience": 20,
-              "number_of_recipes": 25,
-              "likes": 500,
-              "description": "Dharshan Munidasa is a Sri Lankan chef who is known for his innovative take on traditional Sri Lankan cuisine. He is the owner of Ministry of Crab, a popular seafood restaurant in Colombo, and has been recognized as one of Asia's 50 Best Restaurants."
-            }
-          },
-          {
-            "recipe": "Momos",
-            "recipeImage":"https://images.unsplash.com/photo-1625220194771-7ebdea0b70b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "chef": {
-              "name": "Binod Baral",
-              "country": "Nepal",
-              "picture": "https://images.unsplash.com/photo-1609558531790-ec0fe1237631?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-              "years_of_experience": 20,
-              "number_of_recipes": 25,
-              "likes": 500,
-              "description": "Binod Baral is a Nepalese chef who is known for his expertise in momo, a type of dumpling that is a popular street food in Nepal. He owns several successful momo restaurants in Nepal and the United States."
-            }
-          },
-          {
-            "recipe": "Mac and Cheese",
-            "recipeImage":"https://images.unsplash.com/photo-1612892010343-983bfd063dc5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
-            "chef": {
-              "name": "Ina Garten",
-              "country": "United States",
-              "picture": "https://images.unsplash.com/photo-1665596666171-2378d6e973b9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-              "years_of_experience": 30,
-              "number_of_recipes": 100,
-              "likes": 2000,
-              "description": "Ina Garten is an American chef who is known for her expertise in comfort food. She is the host of the television show Barefoot Contessa, has authored several cookbooks, and owns a successful specialty food store in the Hamptons."
-            }
-          },
-          {
-            "recipe": "Bibimbap",
-            "recipeImage":"https://images.unsplash.com/photo-1600289031464-74d374b64991?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1075&q=80",
-            "chef": {
-              "name": "Jung Sik Yim",
-              "country": "South Korea",
-              "picture": "https://images.unsplash.com/photo-1635431543236-d8813fad2bed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80",
-              "years_of_experience": 25,
-              "number_of_recipes": 50,
-              "likes": 1500,
-              "description": "Jung Sik Yim is a South Korean chef who is known for his innovative take on traditional Korean cuisine. He is the owner of several successful restaurants in South Korea and New York City, and has been recognized as one of the world's 50 best chefs."
-            }
-          },
-          {
-            "recipe": "Tacos al Pastor",
-            "recipeImage":"https://plus.unsplash.com/premium_photo-1681406994990-e16f7e02e027?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "chef": {
-              "name": "Enrique Olvera",
-              "country": "Mexico",
-              "picture": "https://images.unsplash.com/photo-1669707569583-8d4c8051130a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
-              "years_of_experience": 20,
-              "number_of_recipes": 75,
-              "likes": 2500,
-              "description": "Enrique Olvera is a Mexican chef who is known for his innovative take on traditional Mexican cuisine. He is the owner of several successful restaurants in Mexico and the United States, and has been recognized as one of the world's 50 best chefs."
-            }
-          },
-          {
-            "recipe": "Lamingtons",
-            "recipeImage":"https://images.unsplash.com/photo-1619149557955-9f3a0b450f39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-            "chef": {
-              "name": "Maggie Beer",
-              "country": "Australia",
-              "picture": "https://images.unsplash.com/photo-1545659531-9a66f06e260a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-              "years_of_experience": 30,
-              "number_of_recipes": 50,
-              "likes": 800,
-              "description": "Maggie Beer is an Australian chef who is known for her expertise in Australian cuisine. She has authored several cookbooks, hosted several television shows, and is the owner of a successful gourmet food business."
-            }
-            
-        },
-        {
-            "recipe": "Mantu",
-            "recipeImage":"https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-            "chef": {
-              "name": "Massoud Esmaili",
-              "country": "Afghanistan",
-              "picture": "https://images.unsplash.com/photo-1615932726364-a8f79917a65a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-              "years_of_experience": 20,
-              "number_of_recipes": 30,
-              "likes": 700,
-              "description": "Massoud Esmaili is an Afghan chef who is known for his expertise in traditional Afghan cuisine. He has owned several successful restaurants in Afghanistan and the United States, and has authored a cookbook on Afghan cuisine."
-            }
-          },
-          {
-            "recipe": "Coq au Vin",
-            "recipeImage":"https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
-            "chef": {
-              "name": "Julia Child",
-              "country": "France",
-              "picture": "https://images.unsplash.com/photo-1541614101331-1a5a3a194e92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
-              "years_of_experience": 50,
-              "number_of_recipes": 200,
-              "likes": 4000,
-              "description": "Julia Child was an American chef who is known for her expertise in French cuisine. She authored several cookbooks and hosted several television shows on cooking, and is credited with introducing French cuisine to the American public."
-            }
-          }
-    ]
-  
+[
+  {
+    "id":1,
+    "recipe": "Butter Chicken",
+    "recipeImage": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "ingredients": [
+      "1 kg chicken, cut into pieces",
+      "1/2 cup yogurt",
+      "1 tbsp ginger paste",
+      "1 tbsp garlic paste",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "2 tbsp oil",
+      "2 tbsp butter",
+      "2 large onions, chopped",
+      "1 cup tomato puree",
+      "1 tsp garam masala",
+      "1/2 cup cream",
+      "Salt, to taste"
+    ],
+    "cookingMethod": [
+      "In a bowl, mix yogurt, ginger paste, garlic paste, turmeric powder, and red chili powder.",
+      "Add chicken pieces to the bowl and mix well. Marinate for 1 hour.",
+      "In a large pan, heat oil and butter. Add onions and fry until golden brown.",
+      "Add tomato puree and cook for 5 minutes.",
+      "Add marinated chicken and cook until the chicken is tender, about 20-25 minutes.",
+      "Add garam masala and salt, and mix well. Cook for 2-3 minutes.",
+      "Add cream and mix well. Cook for another 2-3 minutes.",
+      "Garnish with chopped coriander leaves and serve hot with naan or rice."
+    ],
+    "ratings": 4.6
+  },
+  {
+    "id":2,
+    "recipe": "Palak Paneer",
+    "recipeImage": "https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+    "ingredients": [
+      "1 bunch spinach, washed and chopped",
+      "200g paneer, cubed",
+      "1 onion, chopped",
+      "1 tomato, chopped",
+      "1 tsp ginger paste",
+      "1 tsp garlic paste",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "1/2 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "cookingMethod": [
+      "Heat oil in a pan and add cumin seeds.",
+      "Add chopped onions and saute until golden brown.",
+      "Add ginger and garlic paste and saute for 2 minutes.",
+      "Add chopped tomatoes and cook until they turn soft.",
+      "Add chopped spinach and cook until it wilts.",
+      "Add all the spices and salt and cook for 2-3 minutes.",
+      "Add cubed paneer and mix well.",
+      "Cover and cook for 5 minutes.",
+      "Serve hot with naan or rice."
+    ],
+    "ratings": 4.8
+  },
+  {
+    "id":3,
+    "recipe": "Chana Masala",
+    "recipeImage": "https://images.unsplash.com/photo-1587033649773-5c231faa21e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1132&q=80",
+    "ingredients": [
+      "1 cup chickpeas, soaked overnight",
+      "1 onion, chopped",
+      "2 tomatoes, chopped",
+      "1 tsp ginger paste",
+      "1 tsp garlic paste",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "1/2 tsp red chili powder",
+      "1/2 tsp turmeric powder",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "cookingMethod": [
+      "Heat oil in a pan and add cumin seeds.",
+      "Add chopped onions and saute until golden brown.",
+      "Add ginger and garlic paste and saute for 2 minutes.",
+      "Add chopped tomatoes and cook until they turn soft.",
+      "Add all the spices and salt and cook for 2-3 minutes.",
+      "Add soaked chickpeas and mix well.",
+      "Add enough water to cover the chickpeas and bring to a boil.",
+      "Lower the heat and let it simmer for 30-40 minutes or until the chickpeas are tender.",
+      "Serve hot with rice or naan."
+    ],
+    "ratings": 4.7
+  },
+  {
+    "id":4,
+    "recipe": "Chicken Tikka Masala",
+    "recipeImage": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1550&q=80",
+    "ingredients": [
+      "500g boneless chicken breasts, cut into bite-sized pieces",
+      "1 cup plain yogurt",
+      "2 tbsp vegetable oil",
+      "1 onion, finely chopped",
+      "4 garlic cloves, minced",
+      "2 tbsp grated ginger",
+      "1 tbsp garam masala",
+      "1 tbsp paprika",
+      "1 tsp cumin",
+      "1/2 tsp turmeric",
+      "1/4 tsp cayenne pepper",
+      "1 can (400g) chopped tomatoes",
+      "1 cup heavy cream",
+      "2 tbsp chopped fresh cilantro",
+      "Salt and pepper to taste"
+    ],
+    "cookingMethod": [
+      "In a large bowl, mix together the chicken and yogurt. Cover and refrigerate for at least 1 hour, or overnight.",
+      "In a large skillet over medium heat, heat the oil. Add the onion and cook until softened, about 5 minutes. Add the garlic and ginger and cook for another minute.",
+      "Add the garam masala, paprika, cumin, turmeric, and cayenne pepper and cook for another minute.",
+      "Add the chicken and yogurt mixture and cook until the chicken is browned on all sides, about 10 minutes.",
+      "Add the chopped tomatoes and simmer for 15 minutes, stirring occasionally.",
+      "Add the heavy cream and cilantro and cook for another 5 minutes.",
+      "Season with salt and pepper to taste. Serve with rice or naan bread."
+    ],
+    "ratings": 4.9
+  },
+  {
+    "id":5,
+    "recipe": "Chicken Biryani",
+    "recipeImage": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
+    "ingredients": [
+      "1 kg chicken",
+      "3 cups basmati rice",
+      "4 onions, sliced",
+      "4 tomatoes, chopped",
+      "1 cup plain yogurt",
+      "4 tablespoons ghee",
+      "2 tablespoons ginger garlic paste",
+      "1 tablespoon red chili powder",
+      "1 teaspoon turmeric powder",
+      "1 teaspoon garam masala",
+      "4 green cardamom pods",
+      "4 cloves",
+      "2 bay leaves",
+      "2 cinnamon sticks",
+      "4 cups water",
+      "Salt to taste"
+    ],
+    "cookingMethod": [
+      "Soak the basmati rice in water for 30 minutes.",
+      "Heat 2 tablespoons of ghee in a pan and add the sliced onions. Fry until they turn golden brown.",
+      "Remove the onions from the pan and set aside.",
+      "In the same pan, add the remaining ghee and the whole spices (green cardamom pods, cloves, bay leaves, and cinnamon sticks). Fry until fragrant.",
+      "Add the chopped tomatoes and fry until they turn mushy.",
+      "Add the ginger garlic paste, red chili powder, turmeric powder, and garam masala. Fry for a minute.",
+      "Add the chicken pieces and fry until they turn brown.",
+      "Add the yogurt and mix well.",
+      "Add 2 cups of water and salt to taste. Cover and cook for 20-25 minutes or until the chicken is cooked.",
+      "In a separate pot, add the soaked basmati rice and 2 cups of water. Cook until the rice is almost done.",
+      "Drain any excess water from the rice.",
+      "In a large pot, spread a layer of rice at the bottom.",
+      "Add a layer of chicken on top of the rice.",
+      "Add a layer of fried onions on top of the chicken.",
+      "Repeat the layers of rice, chicken, and fried onions until all the ingredients are used up.",
+      "Cover the pot with a lid and cook on low heat for 10-15 minutes.",
+      "Garnish with coriander leaves and serve hot."
+    ],
+    "ratings": 4.8
+  },
+  {
+    "recipe": "Baingan Bharta",
+    "recipeImage": "https://images.unsplash.com/photo-1591813144634-eebdeab865e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "ingredients": [
+      "1 large eggplant",
+      "1 tablespoon vegetable oil",
+      "1 large onion, finely chopped",
+      "1 tablespoon ginger-garlic paste",
+      "1 large tomato, finely chopped",
+      "2 green chilies, chopped",
+      "1/2 teaspoon cumin seeds",
+      "1/2 teaspoon turmeric powder",
+      "1/2 teaspoon red chili powder",
+      "1/2 teaspoon garam masala",
+      "Salt to taste",
+      "Fresh cilantro, chopped for garnish"
+    ],
+    "cookingMethod": [
+      "Preheat the oven to 375°F.",
+      "Prick the eggplant with a fork in several places and place it on a baking sheet.",
+      "Bake the eggplant in the preheated oven for about 45-50 minutes or until it is completely soft and the skin is charred.",
+      "Once done, remove from the oven and allow it to cool down.",
+      "Peel off the charred skin and mash the pulp well with a fork or masher.",
+      "Heat oil in a pan over medium heat.",
+      "Add cumin seeds and let them splutter.",
+      "Add chopped onions and sauté until translucent.",
+      "Add ginger-garlic paste and sauté until the raw smell goes away.",
+      "Add chopped tomato and green chilies and cook until the tomato is soft and mushy.",
+      "Add turmeric powder, red chili powder, and garam masala and mix well.",
+      "Add the mashed eggplant and mix everything well.",
+      "Add salt to taste and cook for a few more minutes until the eggplant is heated through.",
+      "Garnish with chopped cilantro and serve hot with naan, roti, or rice."
+    ],
+    "ratings": 4.2
+  }
+]
