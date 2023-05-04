@@ -3,7 +3,6 @@ const app = express();
 const cors = require("cors");
 const port = process.env.PORT || 3000;
 const foodRecipes = require("./Data/ChefsFoodRecipes.json");
-const chef = require("./Data/chef.json");
 app.use(cors());
 app.get("/", (req, res) => {
   res.send("The Chef Recipe Hunting portal is running");
