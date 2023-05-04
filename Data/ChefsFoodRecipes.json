@@ -1,0 +1,439 @@
+[
+  {
+    "id": "1",
+    "picture": "https://i.ibb.co/Qkw0Q4s/Awy4h-BMasterchef-Sanjeev-Kapoor.jpg",
+    "name": "Sanjeev Kapoor",
+    "experience": 35,
+    "recipes": 1500,
+    "likes": 2000000,
+    "description": "Sanjeev Kapoor is an Indian celebrity chef, entrepreneur, and television personality. He has been a prominent figure in the culinary world for over three decades and is widely regarded as one of India's top chefs. Kapoor has authored over 150 cookbooks and has hosted several cooking shows, including 'Khana Khazana,' which aired for over 17 years and was one of the longest-running cooking shows in Asia. He has also been awarded the Padma Shri in recognition of his contribution to Indian cuisine.",
+    "featured_recipe": [
+      {
+        "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1671&q=80",
+        "id": 1,
+        "name": "Indian Chicken Curry",
+        "ingredients": [
+          "2 lbs boneless chicken",
+          "1 onion, chopped",
+          "2 tomatoes, chopped",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp cumin powder",
+          "1 tsp coriander powder",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp red chili powder",
+          "1/2 cup yogurt",
+          "2 tbsp oil",
+          "Salt, to taste"
+        ],
+        "cooking_method": "Heat oil in a pan and sauté the onions until golden brown. Add ginger and garlic paste and sauté for another 2 minutes. Add tomatoes and cook until they turn soft. Add cumin powder, coriander powder, turmeric powder, and red chili powder, and cook for a few minutes. Add the chicken and sauté for 5-7 minutes, until the chicken is lightly browned. Add yogurt and salt, and cook for another 15-20 minutes, until the chicken is fully cooked and the gravy has thickened. Serve hot with rice or naan.",
+        "rating": 4.7,
+        "favorite": true
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1589301773859-bb024d3ad558?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "id": 2,
+        "name": "Samosas",
+        "ingredients": [
+          "2 cups all-purpose flour",
+          "1/2 tsp salt",
+          "1/4 cup oil",
+          "1/2 cup water",
+          "2 potatoes, boiled and mashed",
+          "1/2 cup peas",
+          "1 onion, chopped",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp cumin seeds",
+          "1/2 tsp turmeric powder",
+          "1/2 tsp red chili powder",
+          "1/2 tsp garam masala powder",
+          "2 tbsp oil",
+          "Salt, to taste"
+        ],
+        "cooking_method": "Mix flour, salt, and oil together in a bowl. Add water and knead to make a soft dough. Cover and set aside for 30 minutes. Heat oil in a pan and add cumin seeds. Add onions and sauté until golden brown. Add ginger and garlic paste and sauté for another 2 minutes. Add peas, mashed potatoes, turmeric powder, red chili powder, garam masala powder, and salt, and mix well. Cook for 5-7 minutes, until the filling is well cooked. Divide the dough into small balls and roll them out into thin circles. Cut each circle in half. Take one half and fold it into a cone. Fill the cone with the potato mixture and seal the edges. Deep fry the samosas until they turn golden brown. Serve hot with chutney or ketchup.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "id": 3,
+        "name": "Butter Chicken",
+        "ingredients": [
+          "1 kg chicken, cut into pieces",
+          "1/2 cup yogurt",
+          "1 tbsp ginger paste",
+          "1 tbsp garlic paste",
+          "1 tsp turmeric powder",
+          "1 tsp red chili powder",
+          "2 tbsp oil",
+          "2 tbsp butter",
+          "2 large onions, chopped",
+          "1 cup tomato puree",
+          "1 tsp garam masala",
+          "1/2 cup cream",
+          "Salt, to taste"
+        ],
+        "cooking_method": "To make butter chicken, mix yogurt and spices to marinate chicken for at least 1 hour. Then fry onions, add tomato puree and cook for 5 mins. Add marinated chicken and cook for 20-25 mins, then add spices and cream and cook for another 2-3 mins. Garnish with coriander and serve with rice or naan.",
+        "rating": 4.5,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "picture": "https://i.ibb.co/HGVFjbK/200827-vikas-khanna-AGC.jpg",
+    "name": "Vikas Khanna",
+    "experience": 25,
+    "recipes": 800,
+    "likes": 1500000,
+    "description": "Vikas Khanna is an Indian-American Michelin-starred chef, restaurateur, cookbook writer, filmmaker, humanitarian, and judge of MasterChef India. He is the recipient of several prestigious awards, including the Michelin Star, and has been featured on several global television shows. Khanna is also known for his philanthropic work and has founded several initiatives to help the underprivileged, including the World's Largest Potluck Party and the Feed India Campaign, which provided meals to millions of people during the COVID-19 pandemic.",
+    "featured_recipe": [
+      {
+        "image": "https://images.unsplash.com/photo-1589647363585-f4a7d3877b10?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+        "id": 1,
+        "name": "Palak Paneer",
+        "ingredients": [
+          "1 bunch spinach, washed and chopped",
+          "200g paneer, cubed",
+          "1 onion, chopped",
+          "1 tomato, chopped",
+          "1 tsp ginger paste",
+          "1 tsp garlic paste",
+          "1 tsp cumin seeds",
+          "1 tsp coriander powder",
+          "1 tsp garam masala",
+          "1/2 tsp red chili powder",
+          "1/2 tsp turmeric powder",
+          "2 tbsp oil",
+          "Salt to taste"
+        ],
+        "cooking_method": 
+       " Palak Paneer is a popular Indian dish made with spinach and paneer (Indian cottage cheese). To make it, first blanch spinach and blend it into a puree. Then, sauté onions, garlic, and ginger in oil or ghee until they are soft and fragrant. Add tomatoes and spices, and cook until the mixture forms a thick paste. Add the spinach puree and cook until the flavors are well combined. Finally, add cubes of paneer and cook until the cheese is heated through. Serve hot with rice or naan.",
+        "rating": 4.8,
+        "favorite": true
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1587033649773-5c231faa21e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1132&q=80",
+        "id": 2,
+        "name": "Chana Masala",
+        "ingredients": [
+            "1 cup chickpeas, soaked overnight",
+            "1 onion, chopped",
+            "2 tomatoes, chopped",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "1/2 tsp red chili powder",
+            "1/2 tsp turmeric powder",
+            "2 tbsp oil",
+            "Salt to taste"
+        ],
+        "cooking_method": "Chana Masala is a popular North Indian dish made with chickpeas cooked in a flavorful tomato-based sauce. To make Chana Masala, chickpeas are simmered with a blend of spices such as cumin, coriander, and garam masala, along with garlic, ginger, onion, and tomato. The dish is typically served with rice or naan bread and garnished with fresh coriander leaves.",
+        "rating": 4.7,
+        "favorite": false
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "id": 3,
+        "name": "Chicken Tikka Masala",
+        "ingredients": [
+            "500g boneless chicken breasts, cut into bite-sized pieces",
+            "1 cup plain yogurt",
+            "2 tbsp vegetable oil",
+            "1 onion, finely chopped",
+            "4 garlic cloves, minced",
+            "2 tbsp grated ginger",
+            "1 tbsp garam masala",
+            "1 tbsp paprika",
+            "1 tsp cumin",
+            "1/2 tsp turmeric",
+            "1/4 tsp cayenne pepper",
+            "1 can (400g) chopped tomatoes",
+            "1 cup heavy cream",
+            "2 tbsp chopped fresh cilantro",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": 
+        "Chicken tikka masala is a popular Indian dish that consists of grilled chicken pieces cooked in a rich, creamy tomato-based sauce. The chicken is first marinated in a mixture of yogurt and spices before being grilled or roasted. The sauce is made by sautéing onions, garlic, ginger, and spices in oil, then adding tomato puree and cream to create a rich and flavorful base. The grilled chicken is then added to the sauce and simmered until tender and fully cooked. It is typically garnished with fresh coriander leaves and served with naan or rice.",
+        "rating": 4.9,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "picture": "https://i.ibb.co/0Bw1DRX/unnamed.jpg",
+    "name": "Tarla Dalal",
+    "experience": 40,
+    "recipes": 1000,
+    "likes": 1200000,
+    "description": "Tarla Dalal was an Indian cookbook author and chef who specialized in Indian cuisine. She wrote over 100 cookbooks, which sold millions of copies worldwide, and hosted several cooking shows on television. Dalal was known for her simple and easy-to-follow recipes that made Indian cooking accessible to people around the world. She was awarded the Padma Shri for her contribution to the culinary arts and was also a recipient of the Woman of the Year award by the Indian Merchants' Chamber.",
+    "featured_recipe": [
+      {
+        "image": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1188&q=80",
+        "id": 1,
+        "name": "Chicken Biryani",
+        "ingredients": [
+            "1 kg chicken",
+            "3 cups basmati rice",
+            "4 onions, sliced",
+            "4 tomatoes, chopped",
+            "1 cup plain yogurt",
+            "4 tablespoons ghee",
+            "2 tablespoons ginger garlic paste",
+            "1 tablespoon red chili powder",
+            "1 teaspoon turmeric powder",
+            "1 teaspoon garam masala",
+            "4 green cardamom pods",
+            "4 cloves",
+            "2 bay leaves",
+            "2 cinnamon sticks",
+            "4 cups water",
+            "Salt to taste"
+        ],
+        "cooking_method": 
+       " Chicken biryani is a classic South Asian dish that features spiced rice and chicken cooked together to create a flavorful and aromatic one-pot meal. The chicken is marinated in a mixture of yogurt and spices, while the rice is cooked separately with whole spices like cardamom, cinnamon, and cloves. The two components are then layered together and cooked on low heat until the flavors meld together. The dish is garnished with fried onions, fresh herbs, and served with raita or chutney on the side.",
+        "rating": 4.8,
+        "favorite": true
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1591813144634-eebdeab865e1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+        "id": 2,
+        "name": "Baingan Bharta",
+        "ingredients": [
+            "1 large eggplant",
+            "1 tablespoon vegetable oil",
+            "1 large onion, finely chopped",
+            "1 tablespoon ginger-garlic paste",
+            "1 large tomato, finely chopped",
+            "2 green chilies, chopped",
+            "1/2 teaspoon cumin seeds",
+            "1/2 teaspoon turmeric powder",
+            "1/2 teaspoon red chili powder",
+            "1/2 teaspoon garam masala",
+            "Salt to taste",
+            "Fresh cilantro, chopped for garnish"
+        ],
+        "cooking_method": "Baingan Bharta is a vegetarian dish from India made with roasted eggplant, onions, tomatoes, and spices. The eggplant is roasted until it is tender and the skin is charred, then mashed and mixed with sautéed onions, tomatoes, and spices like cumin, coriander, and chili powder. It is typically served with naan bread or rice and can be garnished with fresh cilantro or yogurt. Baingan Bharta is a flavorful and healthy dish that is popular in Indian cuisine.",
+        "rating": 4.2,
+        "favorite": false
+      },
+      {
+        "image": "https://i.ibb.co/dDnGzTg/image.png",
+        "id": 3,
+        "name": "Vegetable Stir-Fry",
+        "ingredients": [
+          "1 cup broccoli florets",
+          "1 cup sliced carrots",
+          "1 cup sliced bell peppers",
+          "1 cup snow peas",
+          "1/4 cup soy sauce",
+          "2 tbsp vegetable oil",
+          "1 tbsp cornstarch",
+          "1 tsp garlic powder"
+        ],
+        "cooking_method": "Heat oil in a wok or large skillet over high heat. Add vegetables and stir-fry for 3-4 minutes, or until crisp-tender. In a small bowl, whisk together soy sauce, cornstarch, and garlic powder. Add soy sauce mixture to the skillet and stir-fry for 1-2 minutes, or until sauce has thickened.",
+        "rating": 4.0,
+        "favorite": true
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "picture": "https://i.ibb.co/xGfzc59/Ranveer-Brar-Wiki-Image.jpg",
+    "name": "Ranveer Brar",
+    "experience":  20,
+    "recipes": 500,
+    "likes": 1000000,
+    "description": "Ranveer Brar is an Indian celebrity chef, restaurateur, and television personality. He has worked as a chef in several high-end restaurants in India and abroad and has been the judge of several cooking shows, including MasterChef India. Brar is known for his innovative take on traditional Indian cuisine and has authored several cookbooks. He is also the recipient of several awards, including the Indian Telly Award for Best Chef.",
+    "featured_recipe": [
+      {
+        "image": "https://i.ibb.co/dDnGzTg/image.png",
+        "id": 1,
+        "name": "Vegetable Stir-Fry",
+        "ingredients": [
+          "1 cup broccoli florets",
+          "1 cup sliced carrots",
+          "1 cup sliced bell peppers",
+          "1 cup snow peas",
+          "1/4 cup soy sauce",
+          "2 tbsp vegetable oil",
+          "1 tbsp cornstarch",
+          "1 tsp garlic powder"
+        ],
+        "cooking_method": "Heat oil in a wok or large skillet over high heat. Add vegetables and stir-fry for 3-4 minutes, or until crisp-tender. In a small bowl, whisk together soy sauce, cornstarch, and garlic powder. Add soy sauce mixture to the skillet and stir-fry for 1-2 minutes, or until sauce has thickened.",
+        "rating": 4.0,
+        "favorite": true
+      },
+      {
+        "image": "https://i.ibb.co/NTJ158W/image.png",
+        "id": 2,
+        "name": "Roasted Salmon with Lemon-Herb Butter",
+        "ingredients": [
+          "4 6-oz salmon fillets",
+          "1/4 cup unsalted butter, softened",
+          "1 lemon, zested and juiced",
+          "1 tbsp chopped fresh parsley",
+          "1 tbsp chopped fresh dill",
+          "Salt and pepper, to taste"
+        ],
+        "cooking_method": "Preheat the oven to 400°F. Line a baking sheet with parchment paper. In a small bowl, mix together the butter, lemon zest, lemon juice, parsley, and dill. Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet. Spread the lemon-herb butter over the salmon fillets. Roast for 12-15 minutes, or until the salmon is cooked through and flakes easily with a fork. Serve hot with additional lemon wedges and herbs, if desired.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "image": "https://i.ibb.co/yQXZ3g4/image.png",
+        "id": 3,
+        "name": "Mushroom Risotto",
+        "ingredients": [
+          "1 cup arborio rice",
+          "4 cups chicken or vegetable broth",
+          "1/4 cup butter",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces mushrooms, sliced",
+          "1/2 cup grated parmesan cheese",
+          "1/4 cup chopped parsley",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper"
+        ],
+        "cooking_method": "In a medium saucepan, bring the broth to a simmer. In a separate large saucepan, melt the butter over medium heat. Add the onion and garlic to the saucepan and cook for 2-3 minutes, until softened. Add the mushrooms to the saucepan and cook for another 5-7 minutes, until the mushrooms are tender. Add the arborio rice to the saucepan and stir to coat with the butter. Add a ladleful of the hot broth to the saucepan and stir until absorbed. Continue adding the broth, one ladleful at a time, stirring constantly, until the rice is tender and the risotto is creamy. Stir in the parmesan cheese and parsley. Season with salt and black pepper to taste. Serve hot.",
+        "rating": 4.8,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "picture": "https://i.ibb.co/QDkCCtd/jaffrey-custom-b8bfd69c2919ffe78855e78ab649640f469d29b5-s1100-c50.jpg",
+    "name": "Madhur Jaffrey",
+    "experience": 50,
+    "recipes": 600,
+    "likes": 900000,
+    "description": "Madhur Jaffrey is an Indian-born actress, food writer, and television personality who has written over 15 cookbooks and appeared in numerous cooking shows. With over 50 years of experience in the culinary world, Jaffrey has become an authority on Indian cuisine and has been recognized with several awards for her contributions to food culture.",
+    "featured_recipe": [
+      {
+        "image": "https://i.ibb.co/dDnGzTg/image.png",
+        "id": 1,
+        "name": "Vegetable Stir-Fry",
+        "ingredients": [
+          "1 cup broccoli florets",
+          "1 cup sliced carrots",
+          "1 cup sliced bell peppers",
+          "1 cup snow peas",
+          "1/4 cup soy sauce",
+          "2 tbsp vegetable oil",
+          "1 tbsp cornstarch",
+          "1 tsp garlic powder"
+        ],
+        "cooking_method": "Heat oil in a wok or large skillet over high heat. Add vegetables and stir-fry for 3-4 minutes, or until crisp-tender. In a small bowl, whisk together soy sauce, cornstarch, and garlic powder. Add soy sauce mixture to the skillet and stir-fry for 1-2 minutes, or until sauce has thickened.",
+        "rating": 4.0,
+        "favorite": true
+      },
+      {
+        "image": "https://i.ibb.co/NTJ158W/image.png",
+        "id": 2,
+        "name": "Roasted Salmon with Lemon-Herb Butter",
+        "ingredients": [
+          "4 6-oz salmon fillets",
+          "1/4 cup unsalted butter, softened",
+          "1 lemon, zested and juiced",
+          "1 tbsp chopped fresh parsley",
+          "1 tbsp chopped fresh dill",
+          "Salt and pepper, to taste"
+        ],
+        "cooking_method": "Preheat the oven to 400°F. Line a baking sheet with parchment paper. In a small bowl, mix together the butter, lemon zest, lemon juice, parsley, and dill. Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet. Spread the lemon-herb butter over the salmon fillets. Roast for 12-15 minutes, or until the salmon is cooked through and flakes easily with a fork. Serve hot with additional lemon wedges and herbs, if desired.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "image": "https://i.ibb.co/yQXZ3g4/image.png",
+        "id": 3,
+        "name": "Mushroom Risotto",
+        "ingredients": [
+          "1 cup arborio rice",
+          "4 cups chicken or vegetable broth",
+          "1/4 cup butter",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces mushrooms, sliced",
+          "1/2 cup grated parmesan cheese",
+          "1/4 cup chopped parsley",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper"
+        ],
+        "cooking_method": "In a medium saucepan, bring the broth to a simmer. In a separate large saucepan, melt the butter over medium heat. Add the onion and garlic to the saucepan and cook for 2-3 minutes, until softened. Add the mushrooms to the saucepan and cook for another 5-7 minutes, until the mushrooms are tender. Add the arborio rice to the saucepan and stir to coat with the butter. Add a ladleful of the hot broth to the saucepan and stir until absorbed. Continue adding the broth, one ladleful at a time, stirring constantly, until the rice is tender and the risotto is creamy. Stir in the parmesan cheese and parsley. Season with salt and black pepper to taste. Serve hot.",
+        "rating": 4.8,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "picture": "https://i.ibb.co/7WTcVN0/Manish-Mehrotra-featured.jpg",
+    "name": "Manish Mehrotra",
+    "experience": 22,
+    "recipes": 400,
+    "likes": 800000,
+    "description": "Manish Mehrotra is a renowned Indian chef known for his innovative approach to Indian cuisine. He has won several awards for his contributions to the culinary world and is the executive chef of the popular Indian restaurant, Indian Accent. Mehrotra is also known for his use of local and seasonal ingredients to create unique and flavorful dishes that showcase the diverse and vibrant flavors of India." ,
+    "featured_recipe": [
+      {
+        "image": "https://i.ibb.co/dDnGzTg/image.png",
+        "id": 1,
+        "name": "Vegetable Stir-Fry",
+        "ingredients": [
+          "1 cup broccoli florets",
+          "1 cup sliced carrots",
+          "1 cup sliced bell peppers",
+          "1 cup snow peas",
+          "1/4 cup soy sauce",
+          "2 tbsp vegetable oil",
+          "1 tbsp cornstarch",
+          "1 tsp garlic powder"
+        ],
+        "cooking_method": "Heat oil in a wok or large skillet over high heat. Add vegetables and stir-fry for 3-4 minutes, or until crisp-tender. In a small bowl, whisk together soy sauce, cornstarch, and garlic powder. Add soy sauce mixture to the skillet and stir-fry for 1-2 minutes, or until sauce has thickened.",
+        "rating": 4.0,
+        "favorite": true
+      },
+      {
+        "image": "https://i.ibb.co/NTJ158W/image.png",
+        "id": 2,
+        "name": "Roasted Salmon with Lemon-Herb Butter",
+        "ingredients": [
+          "4 6-oz salmon fillets",
+          "1/4 cup unsalted butter, softened",
+          "1 lemon, zested and juiced",
+          "1 tbsp chopped fresh parsley",
+          "1 tbsp chopped fresh dill",
+          "Salt and pepper, to taste"
+        ],
+        "cooking_method": "Preheat the oven to 400°F. Line a baking sheet with parchment paper. In a small bowl, mix together the butter, lemon zest, lemon juice, parsley, and dill. Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet. Spread the lemon-herb butter over the salmon fillets. Roast for 12-15 minutes, or until the salmon is cooked through and flakes easily with a fork. Serve hot with additional lemon wedges and herbs, if desired.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "image": "https://i.ibb.co/yQXZ3g4/image.png",
+        "id": 3,
+        "name": "Mushroom Risotto",
+        "ingredients": [
+          "1 cup arborio rice",
+          "4 cups chicken or vegetable broth",
+          "1/4 cup butter",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "8 ounces mushrooms, sliced",
+          "1/2 cup grated parmesan cheese",
+          "1/4 cup chopped parsley",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper"
+        ],
+        "cooking_method": "In a medium saucepan, bring the broth to a simmer. In a separate large saucepan, melt the butter over medium heat. Add the onion and garlic to the saucepan and cook for 2-3 minutes, until softened. Add the mushrooms to the saucepan and cook for another 5-7 minutes, until the mushrooms are tender. Add the arborio rice to the saucepan and stir to coat with the butter. Add a ladleful of the hot broth to the saucepan and stir until absorbed. Continue adding the broth, one ladleful at a time, stirring constantly, until the rice is tender and the risotto is creamy. Stir in the parmesan cheese and parsley. Season with salt and black pepper to taste. Serve hot.",
+        "rating": 4.8,
+        "favorite": false
+      }
+    ]
+  }
+]
